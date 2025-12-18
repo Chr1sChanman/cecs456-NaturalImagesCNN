@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# dataset
+archive.zip
+archive/
+
+# Model weights / data
+*.pth
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
